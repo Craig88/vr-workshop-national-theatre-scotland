@@ -16,9 +16,9 @@ The workshop was created as part of First Nights, a programme that engages group
 See the slides (Coming soon...) <br>
 See [the worksheet](worksheet.md) (Draft)
 
-**Live Code Samples**
-Basic VR scene template: [Live Demo](https://webvr-space.glitch.me) | [Project Page](https://glitch.com/~webvr-space)
-VR scene with sound template: [Live Demo](https://webvr-space-sound.glitch.me) | [Project Page](https://glitch.com/~webvr-space-sound)
+**Live Code Samples** <br>
+Basic VR scene template: [Live Demo](https://webvr-space.glitch.me) | [Project Page](https://glitch.com/~webvr-space) <br>
+VR scene with sound template: [Live Demo](https://webvr-space-sound.glitch.me) | [Project Page](https://glitch.com/~webvr-space-sound) <br>
 
 ### Built with
 * [A-Frame](https://aframe.io)
