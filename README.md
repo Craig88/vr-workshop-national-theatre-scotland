@@ -36,11 +36,11 @@ VR scene with sound template: [Live Demo](https://webvr-space-sound.glitch.me) |
 * Scott Purvis
 
 ### Useful references
-How to make a VR scene [full screen on an iPhone](https://github.com/aframevr/aframe/issues/3508)
-[Freesound.org](https://freesound.org) for free sounds/music
-Equirectangular photo group [on Flickr](https://www.flickr.com/groups/equirectangular/)
-NTS Interference [production website](https://www.nationaltheatrescotland.com/production/interference/)
-Red/Blue Pill [illusion](https://www.moillusions.com/blue-pill-red-pill-illusion/)
+* How to make a VR scene [full screen on an iPhone](https://github.com/aframevr/aframe/issues/3508)
+* [Freesound.org](https://freesound.org) for free sounds/music
+* Equirectangular photo group [on Flickr](https://www.flickr.com/groups/equirectangular/)
+* NTS Interference [production website](https://www.nationaltheatrescotland.com/production/interference/)
+* Red/Blue Pill [illusion](https://www.moillusions.com/blue-pill-red-pill-illusion/)
 
 ---
 
