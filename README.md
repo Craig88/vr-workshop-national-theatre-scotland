@@ -6,7 +6,7 @@
 
 This workshop accompanies *Interference* directed by Cora Bissett - a trilogy of plays all exploring a futuristic world and our relationship with technology. This is performed in a non-traditional space and promises to be a really exciting and engaging performance. You can find out more [on the NTS website](https://www.nationaltheatrescotland.com/production/interference/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3n_Jn2H9Rk?autoplay=1&controls=0&mute=1&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Interference by National Theatre of Scotland](img/interference.gif)
 
 The workshop was created as part of First Nights, a programme that engages groups of people, giving them the opportunity to experience a National Theatre of Scotland production. They get to attend performances and take part in specially designed workshops breaking down some of the social and psychological barriers that may have prevented them from engaging with theatre and the arts previously.
 
