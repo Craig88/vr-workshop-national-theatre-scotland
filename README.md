@@ -13,7 +13,7 @@ The workshop was created as part of First Nights, a programme that engages group
 ### Workshop description
 > Learn how to create your own Virtual Reality world. You'll use A-Frame to remix your own virtual reality experience using code, then test it out and share it with your friends. You can even share it online for the world to see. No previous coding experience is needed, and you'll be provided with all the tools you need to let you explore VR. This workshop is a fun way to be creative with technology.
 
-See the slides (Coming soon...)
+See the slides (Coming soon...) <br>
 See [the worksheet](worksheet.md)
 
 **Live Code Samples**
@@ -44,5 +44,5 @@ Red/Blue Pill [illusion](https://www.moillusions.com/blue-pill-red-pill-illusion
 
 ---
 
-Craig Steele <cr@igsteele.com> [<i class="fab fa-twitter"></i>](https://www.twitter.com/craig88) [<i class="fab fa-github"></i>](https://www.github.com/craig88) [<i class="fab fa-linkedin"></i>](https://uk.linkedin.com/in/craig88)
+Craig Steele <cr@igsteele.com> <br>
 join Craig's [Digital Skills Newsletter](http://eepurl.com/giQHof)
