@@ -15,7 +15,7 @@ Somewhere to go if you feel anxious.
 1. Find an 'equirectangular' photo that suits your space. You'll find lots here: <https://crg.st/equil>
 2. Use the download icon to save the photo to your computer
 3. Go the project page - <https://glitch.com/~webvr-space>
-4. Click the `Remix This` button to make your own copy of the project
+4. Click the `Remix your own` button to make your own copy of the project
 5. Click on the `assets` folder on the left hand side. Upload your photo by dragging and dropping it.
 6. Use the `Copy` button to copy the URL (address) of the image you uploaded
 7. Change the `<a-sky>` line of code, replace the address in `src` with the one you've just copied.
@@ -39,8 +39,7 @@ Just press <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>i</kbd> on any A-Frame scene 
 
 ### Add in sounds, shapes, and other objects
 You can also add sounds into your space. (Although, this doesn't work as well on mobile browsers).
-Here's an example of a project that uses sound - <https://glitch.com/~webvr-space-sound>. You can remix it to use your own sound or music.
+Here's an example of a project that uses sound - <https://glitch.com/~webvr-space-sound>. You can remix it to use your own sounds or music.
 <https://freesound.org/> is a great website for free sounds.
 
-
-*Instructions to add sound, shapes, objects*
+Use the aframe website <https://aframe.io/docs> to find out about adding other shapes and 3D objects.
