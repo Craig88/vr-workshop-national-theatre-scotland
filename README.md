@@ -40,6 +40,7 @@ VR scene with sound template: [Live Demo](https://webvr-space-sound.glitch.me) |
 * [Freesound.org](https://freesound.org) for free sounds/music
 * Equirectangular photo group [on Flickr](https://www.flickr.com/groups/equirectangular/)
 * NTS Interference [production website](https://www.nationaltheatrescotland.com/production/interference/)
+* NTS [Futureproof Passport](https://www.nationaltheatrescotland.com/futureproof-passport/) Sign up to access £5 tickets to National Theatre of Scotland shows.
 * Red/Blue Pill [illusion](https://www.moillusions.com/blue-pill-red-pill-illusion/)
 
 ---
