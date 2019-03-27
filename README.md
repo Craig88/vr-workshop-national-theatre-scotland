@@ -20,6 +20,19 @@ See [the worksheet](worksheet.md) (Draft)
 Basic VR scene template: [Live Demo](https://webvr-space.glitch.me) | [Project Page](https://glitch.com/~webvr-space) <br>
 VR scene with sound template: [Live Demo](https://webvr-space-sound.glitch.me) | [Project Page](https://glitch.com/~webvr-space-sound) <br>
 
+### Scenes created by workshop participants
+* <http://geode-turnip.glitch.me>
+* <http://befitting-address.glitch.me>
+* <http://cherry-stoplight.glitch.me>
+* <http://denim-eclipse.glitch.me>
+* <http://shell-baron.glitch.me>
+* <http://buttercup-beam.glitch.me>
+* <http://incandescent-loan.glitch.me>
+* <http://longing-velociraptor.glitch.me>
+* <http://successful-lady.glitch.me>
+* <http://elated-parrotfish.glitch.me>
+* <http://jade-pancreas.glitch.me>
+
 ### Built with
 * [A-Frame](https://aframe.io)
 * [Glitch](https://glitch.com/)
