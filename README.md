@@ -13,8 +13,8 @@ The workshop was created as part of First Nights, a programme that engages group
 ### Workshop description
 > Learn how to create your own Virtual Reality world. You'll use A-Frame to remix your own virtual reality experience using code, then test it out and share it with your friends. You can even share it online for the world to see. No previous coding experience is needed, and you'll be provided with all the tools you need to let you explore VR. This workshop is a fun way to be creative with technology.
 
-See the slides (Coming soon...) <br>
-See [the worksheet](worksheet.md) (Draft)
+See [the slides](workshopslides.pdf)
+See [the worksheet](worksheet.md)
 
 **Live Code Samples** <br>
 Basic VR scene template: [Live Demo](https://webvr-space.glitch.me) | [Project Page](https://glitch.com/~webvr-space) <br>
